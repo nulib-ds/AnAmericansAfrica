@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://LLP-IIIF.github.io/AnAmericansAfrica
+Host: https://nulib-ds.github.io/AnAmericansAfrica
 
 # Sitemaps
-Sitemap: https://LLP-IIIF.github.io/AnAmericansAfrica/sitemap.xml
+Sitemap: https://nulib-ds.github.io/AnAmericansAfrica/sitemap.xml
