@@ -1,11 +1,11 @@
 [
   {
-    "path": "/Mementos",
-    "text": "Mementos"   
-  },
-  {
     "path": "/ArcGISMap",
     "text": "Map"
+  },
+  {
+    "path": "/Mementos",
+    "text": "Mementos"   
   },
   {
     "path": "/Makers",
