@@ -19,6 +19,10 @@ const defaults = {
     paddingTop: `${headerHeight}px`,
   },
 
+  h2: {
+    color: #757575,
+  },
+
   "ul, ol": {
     li: {
       paddingBottom: "$gr1",
