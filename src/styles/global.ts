@@ -3,11 +3,14 @@ import { globalCss } from "@stitches/react";
 export const rem = 20;
 export const headerHeight = 60.533333;
 
+<link rel="icon" type="image/x-icon" href="{{ '/images/favicon.png'}}">
+
 const defaults = {
   body: {
     margin: 0,
     padding: 0,
   },
+  
 
   html: {
     fontFamily: "$sans",
@@ -17,6 +20,10 @@ const defaults = {
     webKitFontSmothing: "antialiased",
     mozOsxFontSmoth: "grayscale",
     paddingTop: `${headerHeight}px`,
+  },
+
+  h2: {
+    color: #757575,
   },
 
   "ul, ol": {
